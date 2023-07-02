@@ -1,18 +1,8 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.2.1",
+	"EngineAssociation": "5.2",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "endless_runner",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
